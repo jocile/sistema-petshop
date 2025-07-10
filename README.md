@@ -6,6 +6,8 @@ Questionário inicial de análise para criação do [Briefing](Briefing.md)
 
 Sistema desenvolvido no curso Programação WEB no Senac  
 
+![Wireframe inicial](teste.svg)
+
 ## Conhecendo o negócio de um PetShop  
 
 1. Conte-me sobre o negócio da sua empresa, seu objetivo e o mercado onde atua:  
